@@ -1,0 +1,30 @@
+1.Company POV
+    - Name
+    - Founder
+    - Industry
+    - Subindustry
+    - Location
+    - Funding Rounds
+        - Stage
+        - Invenstor
+        - Date
+
+2. Investor POV
+    - Name
+    - Recent Invenstment
+    - Biggest Invest in ..
+    - Sector -> Pie
+    - Stage -> Pie
+    - City -> Pie
+    - YoY Investor Graph
+    - Similar Investor
+
+3. General Analysis
+    - MoM chart -> Total -> Count
+    - Cards -> Total + Max + Avg -> Total Funded Startup
+    - Sector Analysis Pie -> Top Sectors(Count + Sum)
+    - Type Of Funding
+    - City Wise Funding
+    - Top Startup -> Year wise -> overall
+    - Top Investor
+    - Funding Heatmap
